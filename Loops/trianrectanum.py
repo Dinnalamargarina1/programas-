@@ -1,1 +1,8 @@
-
+#2. Escriba un programa para mostrar el patrón como un triángulo rectángulo con un número.
+print("1")
+print("1",end="")
+print("2")
+print("1""2",end="")
+print("3")
+print("1""2""3",end="")
+print("4")
